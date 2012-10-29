@@ -1,1 +1,4 @@
 1020738fc1de56751c902c0f26eac5a61a0d9790 - Bluetooth: Fix sleeping function in RFCOMM within invalid context
+c1fd3a9cbe9d26e14c1fb2c820c906fdc6b068a0 - ecryptfs: fix use with tmpfs by removing d_drop from ecryptfs_destroy_inode
+0bee0a7baf562b6094b1da266c46ec0acec5d7e6 - eCryptfs: Decrypt symlink target for stat size
+328851d3f993704cb61a74cdf8af88d987302812 - ecryptfs: fix error code for missing xattrs in lower fs
