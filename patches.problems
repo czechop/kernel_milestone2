@@ -7,3 +7,4 @@ bbb09cb00544c82289bcbf87eef5576d0109c67d - powerpc/perf_event: Fix oops due to p
 7607da8d4639cea9d7282c00e4fc1b288fcaa90f - sched: Fix race between ttwu() and task_rq_lock()
 cc28db464250bd240299431cc4fd7b7d58b205d2 - sched: sched_exec(): Remove the select_fallback_rq() logic
 6d94134f5f3f8bede26d4f700e17154d590d6d6e - sched: Fix TASK_WAKING vs fork deadlock ***
+e1155f2ae2c0562b4efe8b2b5165ad911be0d008 - Input: add compat support for sysfs and /proc capabilities output
