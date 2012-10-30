@@ -9,3 +9,4 @@ cc28db464250bd240299431cc4fd7b7d58b205d2 - sched: sched_exec(): Remove the selec
 6d94134f5f3f8bede26d4f700e17154d590d6d6e - sched: Fix TASK_WAKING vs fork deadlock ***
 e1155f2ae2c0562b4efe8b2b5165ad911be0d008 - Input: add compat support for sysfs and /proc capabilities output
 60a517cab5e8885d8873bfa3acc2a138fbb7fb9c - net: release dst entry while cache-hot for GSO case too
+b271aebc0a8e8e75c8f32cd0a9a41a0b8a6166e8 - sched: Remove USER_SCHED
