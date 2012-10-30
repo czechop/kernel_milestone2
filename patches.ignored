@@ -3,3 +3,4 @@ c1fd3a9cbe9d26e14c1fb2c820c906fdc6b068a0 - ecryptfs: fix use with tmpfs by remov
 0bee0a7baf562b6094b1da266c46ec0acec5d7e6 - eCryptfs: Decrypt symlink target for stat size
 328851d3f993704cb61a74cdf8af88d987302812 - ecryptfs: fix error code for missing xattrs in lower fs
 1cd8211f07663ebeac04b19ac849de7ed5eef969 - Revert "module: fix __module_ref_addr()"
+4dfe0eb30a2b59bed15f12055363512a1423c707 - ARM: Tighten check for allowable CPSR values
