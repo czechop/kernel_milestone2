@@ -13,3 +13,4 @@ b271aebc0a8e8e75c8f32cd0a9a41a0b8a6166e8 - sched: Remove USER_SCHED
 c2234bf9dbc4db7b2f378c9ad0d59fd75f5793f0 - shmem: let shared anonymous be nonlinear again
 28e4bf4a8b80ccae1e42f9ca2d173f1cf5f60abb - mmc: fix all hangs related to mmc/sd card insert/removal during suspend/resu
 24bf8073fb6ca107fd074879234c399e2543127d - usb: gadget: rndis: don't test against req->length
+7727d2c0b842a1971090a15c434b41049632fff5 - ecryptfs: Improve metadata read failure logging
