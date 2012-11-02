@@ -15,3 +15,4 @@ c2234bf9dbc4db7b2f378c9ad0d59fd75f5793f0 - shmem: let shared anonymous be nonlin
 24bf8073fb6ca107fd074879234c399e2543127d - usb: gadget: rndis: don't test against req->length
 7727d2c0b842a1971090a15c434b41049632fff5 - ecryptfs: Improve metadata read failure logging
 98886b542b96243a07623139075be7193eca2ea2 - Add mount option to check uid of device being mounted = expect uid, CVE-2011-1833
+70e74484c247680dbd8f9128044223b4257b4c65 - eCryptfs: Handle failed metadata read in lookup
