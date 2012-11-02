@@ -16,3 +16,6 @@ c2234bf9dbc4db7b2f378c9ad0d59fd75f5793f0 - shmem: let shared anonymous be nonlin
 7727d2c0b842a1971090a15c434b41049632fff5 - ecryptfs: Improve metadata read failure logging
 98886b542b96243a07623139075be7193eca2ea2 - Add mount option to check uid of device being mounted = expect uid, CVE-2011-1833
 70e74484c247680dbd8f9128044223b4257b4c65 - eCryptfs: Handle failed metadata read in lookup
+c15f065adeb5ecf241308c720d4f8b1f7953dce2 - security: fix compile error in commoncap.c
+989e1ffdfe56a8607fdf89918ca4e494841c02cd - hugepages: fix use after free bug in "quota" handling
+8c3711e7d2a86b6ca4fd8344c18209606d4a8a21 - random: make 'add_interrupt_randomness()' do something sane
