@@ -5,3 +5,4 @@ c1fd3a9cbe9d26e14c1fb2c820c906fdc6b068a0 - ecryptfs: fix use with tmpfs by remov
 1cd8211f07663ebeac04b19ac849de7ed5eef969 - Revert "module: fix __module_ref_addr()"
 4dfe0eb30a2b59bed15f12055363512a1423c707 - ARM: Tighten check for allowable CPSR values
 20f95b412b7fa9ecd93bda4d34a88bd159ffca8f - sched: Fix fork vs hotplug vs cpuset namespaces
+3c9b2dad7e98a942c6bca63bb95b66c0b3c9d0fd - eCryptfs: Use notify_change for truncating lower inodes
